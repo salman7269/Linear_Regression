@@ -1,0 +1,2 @@
+JSON_File_Path=r"D:\Python_Course\Umesh_Sir\New folder\Python_coding\Python_Machine_Learning\Machine Learning Algorithms\Linear Regression\project2\project_data.json"
+Pickle_File_Path=r"D:\Python_Course\Umesh_Sir\New folder\Python_coding\Python_Machine_Learning\Machine Learning Algorithms\Linear Regression\project2\lr_model.pkl"
