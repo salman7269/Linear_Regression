@@ -21,6 +21,7 @@ def get_Index_price():
         ind_price=Eco_obj.get_predicted_index_price()
         return jsonify({"Result":f"Predicted Index Price is {ind_price[0]}"})
     
+    
 if __name__=="__main__":
     app.run()
         
